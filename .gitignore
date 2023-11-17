@@ -1,0 +1,10 @@
+# carpeta bin
+bin
+
+# carpeta de datos
+obj
+
+# archivos
+
+.csproj
+.sln
