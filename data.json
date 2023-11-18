@@ -1,0 +1,15 @@
+{ 
+
+  "_id" : "59ce6b34f48f171624840b05", 
+  "name" : "Nikola", 
+  "blog" : "rubikscode.net", 
+  "age" : 30, 
+  "location" : "Beograd",
+
+  "_id" :"59ce6b34f48f171624840b06",
+  "name": "Vanja",
+  "age": 27,
+  "blog": "eventroom.net",
+  "location": "Beograd"
+
+}
